@@ -13,6 +13,7 @@ data = {
         }
     }
 }
+
 cabecera = {"content-type":"application/json"}
 
 requests.packages.urllib3.disable_warnings() # Eliminar el warning
